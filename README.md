@@ -2,7 +2,7 @@
 
 ## Desafio 01: Docker golang
 
-[Reposítório Docker](https://hub.docker.com/repository/docker/marddden/fullcycle_docker_go/general)
+[Repositório Docker](https://hub.docker.com/repository/docker/marddden/fullcycle_docker_go/general)
 
 Comando para rodar o container:
 ```bash
